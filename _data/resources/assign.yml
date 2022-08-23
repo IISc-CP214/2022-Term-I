@@ -1,5 +1,19 @@
 assignments:
-  - name: Assignment 1
-    link: ../assets/assignments/orca.pdf
-  - name: Assignment 2
-    link: ../assets/assignments/orca.pdf
+  - name: HW 1
+    link: ../assets/assignments/HW1.pdf
+  - name: HW 2
+    link: ../assets/assignments/HW.pdf
+  - name: HW 3
+    link: ../assets/assignments/HW.pdf
+  - name: HW 4
+    link: ../assets/assignments/HW.pdf
+  - name: HW 5
+    link: ../assets/assignments/HW.pdf
+  - name: HW 6
+    link: ../assets/assignments/HW.pdf
+  - name: HW 7
+    link: ../assets/assignments/HW.pdf
+  - name: HW 8
+    link: ../assets/assignments/HW.pdf
+  - name: HW 9
+    link: ../assets/assignments/HW.pdf
