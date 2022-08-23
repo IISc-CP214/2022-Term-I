@@ -3,7 +3,7 @@ email: #your-email@example.com
 description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
     Course Website for CP 214 Foundation of Robotics by Prof. Shishir NY and Prof. Pushpak Jagtap @IISc, Bangalore .
  
-baseurl: "IISc-CP214"   # specify the subpath of your site
+baseurl: "2022-Term-I"   # specify the subpath of your site
 url: "https://iisc-cp214.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
 twitter_username: #
 github_username: #
