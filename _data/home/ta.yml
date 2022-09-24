@@ -4,10 +4,10 @@ ta:
   email: manantayal@iisc.ac.in 
   img: assets/images/manan.jpg
 
-# - name: Vamshi Kumar Kurva
-#   github: https://vamshikumarkurva.github.io/
-#   email: vamshi@iisc.ac.in
-#   img: assets/images/vamshi.jpg
+- name: Vamshi Kumar Kurva
+  github: https://vamshikumarkurva.github.io/
+  email: vamshi@iisc.ac.in
+  img: assets/images/vamshi.jpg
 
 - name: Vaishnav KV
   github: https://www.linkedin.com/in/vaishnav-k-v-268969160/?originalSubdomain=in
